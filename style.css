@@ -1,0 +1,72 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-color: #9be4fd;
+}
+div{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  margin: 20px;
+}
+.imagen img{
+  height: 300px;
+}
+.titulo h1{
+  font-size: 50px;
+  text-align: center;
+  color: #0c299d;
+  font-family: 'forte';
+}
+.enlace a{
+  font-size: 20px;
+  text-align: center;
+  color: #0042aa;
+  font-family: 'Cascadia Code';
+}
+.subtitulo{
+  text-align: left;
+  color:#cd8b18 ;
+  font-family: 'Cascadia Code';
+}
+.descripción{
+color:#cd8b18 ;
+font-family:'forte' ;
+font-size: 20px;
+}
+.descripción img{
+  height: 300px;
+  }
+.descripción2 p{
+  color: #004b85;
+  font-family: 'Cooper Black';
+  font-size: 25px;
+}
+
+.descripción2 img{
+    height: 200px;
+  }
+.titulo2{
+  text-align: center;
+  color: black;
+  font-family: 'forte';
+  font-weight: bold;
+}
+.descripción3{
+  color: black;
+  font-family: Tempus Sans ITC;
+  font-weight: bold;
+  font-size: 20px;
+}
+.descripción3 img{
+  height: 300px;
+}
+.texto p{
+  color: #004b85;
+  font-family: 'Cooper Black';
+  font-size: 25px;
+}
+
